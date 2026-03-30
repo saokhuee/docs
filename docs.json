@@ -14,11 +14,9 @@
         "tab": "Hướng dẫn sử dụng",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Giới thiệu về hệ thống",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "huong-dan-chung"
             ]
           },
           {
@@ -47,21 +45,7 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
